@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186584787680",
+    "project_id": "pinjol-ojk-2024",
+    "storage_bucket": "pinjol-ojk-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186584787680:android:631cf2e1a5eade5bff3e85",
+        "android_client_info": {
+          "package_name": "com.pinjol24jamcair.pinjolojk2024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186584787680-n26k0jgh4krf4g8mk2t9n8g37d9aip8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzAM_Cs4hC4mNBXUu6OhlSGMQszBzUJHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186584787680-n26k0jgh4krf4g8mk2t9n8g37d9aip8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
